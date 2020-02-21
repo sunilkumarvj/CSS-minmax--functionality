@@ -1,3 +1,5 @@
+## Demo of the CSS-minmax() functionality: https://sunilkumarvj.github.io/CSS-minmax--functionality/
+
 # CSS-minmax--functionality
   The minmax() function is one of these less widely known features. 
   It makes it possible to define the size of a grid track as a minimum to maximum range so that the grid 
